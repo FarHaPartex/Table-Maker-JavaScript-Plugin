@@ -1,0 +1,17 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.main_body{
+	width: 100%;
+	overflow: hidden;
+}
+
+.show_table{
+	width: 80%;
+	overflow: hidden;
+	margin: auto;
+	margin-top: 2%;
+}
+

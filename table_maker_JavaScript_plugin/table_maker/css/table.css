@@ -1,0 +1,39 @@
+.example_table{
+	width: 100%;
+	overflow: hidden;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.example_table th, .example_table td, .example_table{
+	border-collapse: collapse;
+}
+.example_table th, .example_table td{
+	text-align: left;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 7px;
+}
+.example_table tr:nth-child(odd){
+	background:#d9d9d9;
+}
+.example_table tr:nth-child(even){
+	
+}
+.how_many{
+	width:100%;
+	margin: auto;
+	overflow: hidden;
+	margin-bottom: 2%;
+}
+
+#select_row_amount{
+	padding: 5px 10px;
+	margin-bottom: 2%;
+}
+.table_search{
+	float: right;
+}
+.table_search #search_elem{
+   padding: 5px 10px;
+   outline: none;
+}
